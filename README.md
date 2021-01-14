@@ -11,5 +11,5 @@ hooks into a change in PWD to automatically launch a [Poetry](https://python-poe
 
 |manager|command|
 |---|---|
-|[fisher](https://github.com/jorgebucaran/fisher)|`fisher add 'ryoppippi/fish-poetry'`|
+|[fisher](https://github.com/jorgebucaran/fisher)|`fisher install 'ryoppippi/fish-poetry'`|
 
