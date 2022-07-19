@@ -8,8 +8,6 @@ hooks into a change in PWD to automatically launch a [Poetry](https://python-poe
 
 ## Installation
 
-
-|manager|command|
-|---|---|
-|[fisher](https://github.com/jorgebucaran/fisher)|`fisher install 'ryoppippi/fish-poetry'`|
-
+| manager                                          | command                               |
+| ------------------------------------------------ | ------------------------------------- |
+| [fisher](https://github.com/jorgebucaran/fisher) | `fisher install 'w40141/fish-poetry'` |
